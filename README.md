@@ -50,7 +50,6 @@ npm start
 
 | Komut                  | Açıklama |
 |------------------------|----------|
-| `/setup`               | Sistemi tek komutla kurar |
 | `/rol-ayarla @rol`     | Durumu yapanlara verilecek rolü ayarlar |
 | `/durum-log #kanal`    | Log embedlerinin gönderileceği kanalı ayarlar |
 | `/yazi-ayarla [yazı]`  | Takip edilecek durumu belirler |
