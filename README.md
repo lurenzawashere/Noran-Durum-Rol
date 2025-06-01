@@ -79,3 +79,4 @@ Bu proje **ChatGPT ve diğer yapay zeka araçlarının** katkısıyla geliştiri
 Geliştirici imzası: `SanchezWasHere?`
 
 ---
+![Noran-Durum-Rol](./durum.png)
