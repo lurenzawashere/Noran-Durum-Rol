@@ -34,9 +34,9 @@ Lütfen emeğe saygı gösterin.
 npm install
 ```
 
-`.env` dosyasına bot tokeninizi ekleyin:
+`settings.json` dosyasına bot tokeninizi ekleyin:
 ```
-BOT_TOKEN=your_bot_token_here
+token=your_bot_token_here
 ```
 
 Botu başlatın:
