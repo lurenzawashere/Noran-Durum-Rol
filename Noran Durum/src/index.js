@@ -1,6 +1,6 @@
 // :crystal_ball: Role System - SanchezWasHere?
 // @dev SanchezWasHere? - Core Logic
-// Encoded Signature: U2FuY2hlekF6YXppbD8= (Base64 - SanchezAzazil?)
+// Encoded Signature: U2FuY2hlekF6YXppbD8= (Base64 - Sanchez?)
 
 const { Client, GatewayIntentBits, Partials, Collection, Events, REST, Routes, SlashCommandBuilder, EmbedBuilder, ActivityType, ActionRowBuilder, ButtonBuilder, ButtonStyle } = require('discord.js');
 const fs = require('fs');
