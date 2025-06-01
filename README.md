@@ -79,4 +79,6 @@ Bu proje **ChatGPT ve diğer yapay zeka araçlarının** katkısıyla geliştiri
 Geliştirici imzası: `SanchezWasHere?`
 
 ---
-![Noran-Durum-Rol](./durum.png)
+<p align="center">
+  <img src="durum.png" alt="Discord Durum Rol Botu" width="600"/>
+</p>
